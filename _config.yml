@@ -1,15 +1,13 @@
 # Site settings
-title: "Joon: Roon for Jekyll"
+title: "Zhenxi Blog"
 logo: logo.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-72157594159055823
-email: your-email@domain.com
+email: zhenxi.mi@gmail.com
 description: > # this means to ignore newlines until "url:"
-  Roon was an excellent service, with a beautiful understated design. After
-  being acquired by <a href='https://ghost.org'>Ghost</a>, the Roon theme was
-  open sourced.<br> This is my Jekyll port of the Roon theme.
+  This is Zhenxi, a UI/UX Designer based in NYC. Previoiusly, he worked as a fine artist, advertising AE, and fashion event production executive. Check more at <a href='http://www.zhenximi.me/'>Zhenxi's portfolio</a>.
 url: "http://vormwald.github.io" # the base hostname & protocol for your site
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: zhenximi
+github_username:  zhenximi
 
 permalink: pretty
 paginate: 5
